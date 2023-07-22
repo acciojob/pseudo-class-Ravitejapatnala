@@ -1,8 +1,6 @@
-p:first-child{
-	color:rgb(255, 0, 0);
-	font-size:20px;
+span:first-child{
+	color:red;
 }
-span{
-	color:black;
-	font-size:15px
+span:last-child{
+	color:red;
 }
