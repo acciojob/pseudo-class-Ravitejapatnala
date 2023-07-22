@@ -1,6 +1,6 @@
 span:first-child{
-	color:red;
+	color:rgb(255, 0, 0);
 }
 span:last-child{
-	color:red;
+	color:rgb(255, 0, 0);
 }
